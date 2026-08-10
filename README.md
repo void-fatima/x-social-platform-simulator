@@ -197,3 +197,7 @@ X Social is an independent software project created to explore desktop social-pl
 <div align="center">
   <strong>Publish thoughtfully. Connect instantly.</strong>
 </div>
+
+---
+
+**Author:** Fatima
